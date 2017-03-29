@@ -4,7 +4,7 @@
   <groupId>com.capitalone.app</groupId>
   <artifactId>eboa</artifactId>
   <version>1.0.0-SNAPSHOT</version>
-  <packaging>war</packaging>
+  <packaging>jar</packaging>
   <name>eboa</name>
   <url>http://maven.apache.org</url>
 
