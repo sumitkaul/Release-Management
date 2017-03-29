@@ -3,7 +3,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.capitalone.app</groupId>
   <artifactId>eboa</artifactId>
-  <version>1.0.0-SNAPSHOT</version>
+  <version>1.0.1-SNAPSHOT</version>
   <packaging>war</packaging>
   <name>eboa</name>
   <url>http://maven.apache.org</url>
